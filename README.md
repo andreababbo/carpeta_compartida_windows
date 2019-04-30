@@ -1,0 +1,1 @@
+# carpeta_compartida_windows
